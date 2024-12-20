@@ -1,2 +1,2 @@
-# Match-the-Face
-A streamlit web app which can tell with which  celebrity you face resembles
+# which-bollywood-celebrity-are-you
+A streamlit web app which can tell with which bollywood celebrity you face resembles
